@@ -1,0 +1,26 @@
+{
+  "name": "react-wapp",
+  "version": "1.0.0",
+  "description": "this is mani wapp",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChittepuMani/wapp.git"
+  },
+  "author": "Mani",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.13.0"
+  }
+}
